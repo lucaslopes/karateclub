@@ -6,10 +6,10 @@ install_requires = [
     "decorator==5.1.*",
     "pandas>=1.2.0",
     "gensim>=4.0.0",
+    "scipy<1.13",
     "tqdm",
     "python-louvain",
     "scikit-learn",
-    "scipy<1.13",
     "pygsp",
     "six",
     "python-Levenshtein"
